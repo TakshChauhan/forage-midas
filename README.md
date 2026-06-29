@@ -262,8 +262,6 @@ Developed as part of the **JPMorgan Chase & Co. Software Engineering Virtual Exp
 
 ## Certificate
 
-## Certificate
-
 <p align="center">
   <a href="https://github.com/user-attachments/assets/969bb67f-7233-4ebf-af2c-651c1fbd3e93">
     <img src="https://github.com/user-attachments/assets/969bb67f-7233-4ebf-af2c-651c1fbd3e93" alt="JPMorgan Certificate" width="700">
